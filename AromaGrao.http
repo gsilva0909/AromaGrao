@@ -1,0 +1,6 @@
+@AromaGrao_HostAddress = http://localhost:5182
+
+GET {{AromaGrao_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
